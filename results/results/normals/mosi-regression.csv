@@ -1,0 +1,3 @@
+Model,Seed,gamma,Has0_acc_2,Has0_F1_score,Non0_acc_2,Non0_F1_score,Mult_acc_5,Mult_acc_7,MAE,Corr,Loss
+amccl,8921,0.01,84.69,84.65,86.13,86.12,55.1,48.98,69.59,79.12,69.8
+amccl,8921,0.01,84.69,84.65,86.13,86.12,55.1,48.98,69.59,79.12,69.8
