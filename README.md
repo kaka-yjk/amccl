@@ -1,8 +1,8 @@
 ### AMCCL: Adaptive Multi-Scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis
 
-The offical code for the paper 《AMCCL: Adaptive Multi-Scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》.
+## The offical code for the paper 《AMCCL: Adaptive Multi-Scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》.
 
-Our paper is under review at PRICAI 2025!🚀 🚀 🚀 
+## Our paper is under review at PRICAI 2025!🚀 🚀 🚀 
 
 ### ✨ Overall architecture of the AMCCL mode
 
