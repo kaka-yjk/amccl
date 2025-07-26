@@ -4,7 +4,7 @@
 
 #### Our paper is under review at PRICAI 2025!🚀 🚀 🚀 
 
-### ✨ Overall architecture of the AMCCL mode
+### ✨ Overall architecture of the AMCCL model
 
 ![AMCCL Figure](figAMCCL.png)
 
